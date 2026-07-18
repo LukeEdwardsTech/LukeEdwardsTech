@@ -9,6 +9,6 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Luke
+[linkedin]: [https://linkedin.com/in/Luke](https://www.linkedin.com/in/luke-edwards-6b325b325/)
 
 
